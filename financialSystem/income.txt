@@ -1,0 +1,2 @@
+salary,500.00
+allowance,450.00
